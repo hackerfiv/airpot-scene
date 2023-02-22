@@ -1,0 +1,11 @@
+Model Information:
+* title:	F35 fighter Jet
+* source:	https://sketchfab.com/3d-models/f35-fighter-jet-084369d3fddc480080cfb05364d75a46
+* author:	Spentza_93 (https://sketchfab.com/Spentza93)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F35 fighter Jet" (https://sketchfab.com/3d-models/f35-fighter-jet-084369d3fddc480080cfb05364d75a46) by Spentza_93 (https://sketchfab.com/Spentza93) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
